@@ -27,7 +27,7 @@ class MyApp extends StatelessWidget {
       locale: const Locale("ar"),
       theme: lightTheme(),
       // home: const OnboardingScreen(),
-      initialRoute: AppRouts.onboarding,
+      initialRoute: AppRouts.homeScreen,
       routes: routes,
     );
   }

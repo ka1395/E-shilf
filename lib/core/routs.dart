@@ -2,7 +2,7 @@ import 'package:e_shilf/pages/login/view/sign_in.dart';
 import 'package:e_shilf/pages/registration/view/otp.dart';
 import 'package:flutter/material.dart';
 
-import '../pages/home/view/home_screen.dart';
+import '../pages/dashboard/view/home_screen.dart';
 import '../pages/login/view/otp_login.dart';
 import '../pages/onboarding/view/onboarding.dart';
 import '../pages/registration/view/register_status.dart';
